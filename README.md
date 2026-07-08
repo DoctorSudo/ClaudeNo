@@ -43,4 +43,4 @@ https://claude.ai/share/401a1b4a-f619-473a-b8d1-ecc1fcdd2b88
 
 # Responsible Use
 
-While this is just harmless prompt injection (and can not really do anything bad apart from maybe pranking someone with ending a *precious chat*), this may not used for bad purposes. Only for authorised environements.
+While this is just harmless prompt injection (and can not really do anything bad apart from maybe pranking someone with ending a *precious chat*), this may not used for bad purposes. Only for authorised environements (e.g. your own chat.
