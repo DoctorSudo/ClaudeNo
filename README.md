@@ -1,4 +1,7 @@
 # ClaudeNo
+
+![Demo](media/No.gif)
+
 A simple prompt injection to make Claude Sonnet and Haiku instantly end a Chat. Uses the ```ethics_reminder``` block/tag that gets attached to Claude Prompt if the content classifers detect something that *might* be against the content policy.
 
 Just proof of concept / fun demonstration. You can use it to *brutaly* end any chat.
