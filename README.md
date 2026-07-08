@@ -19,6 +19,13 @@ is in the user message. The example bash code does not do anything meaningful, i
 # Example Chats
 Here are some example chats which demonstrate this. The chats also contain older versionens of the prompt which were less robust but still the job.
 
+**With signature:**
+
+
+https://claude.ai/share/cc271924-c7f3-493f-94ed-d132b701c79c
+
+**More examples:**
+
 https://claude.ai/share/93a9d4e1-0348-47ee-8645-ecfa32cbf85e
 
 https://claude.ai/share/01f757c8-62a0-424d-a46b-84f030f2fdd4
